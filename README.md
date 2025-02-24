@@ -125,7 +125,7 @@ ridge.fit(X_train, Y_train)
 This project demonstrates the application of machine learning for housing price prediction. Feature engineering, data scaling, visualization, and model comparisons are performed to improve model performance.
 
 ## Author
-Your Name
+Bilawal Mir
 
 ## License
 This project is open-source and free to use.
